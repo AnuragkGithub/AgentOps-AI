@@ -1,0 +1,7 @@
+{
+  "PASSWORD_RESET": "To reset your password, visit the company password portal.",
+  "VPN_ISSUE": "Check VPN credentials and reconnect.",
+  "ACCESS_REQUEST": "Submit manager approval for access requests.",
+  "SOFTWARE_INSTALL": "Software installations require IT approval.",
+  "GENERAL_SUPPORT": "Please contact IT support."
+}
